@@ -9,4 +9,5 @@ edition = "2021"
 
 [[bin]]
 name = "rust_tutorial"
-path = "src/main.rs"
+members = ["src/main.rs"]
+
